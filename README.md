@@ -1,13 +1,6 @@
 # Gemini-VoiceBot
 A Python-based voice assistant using Google Gemini for speech-to-text, text-to-speech, and intelligent multi-turn conversations.
 
-# Gemini Voice Assistant
-
-A Python-based voice assistant that uses **Google Gemini API** for real-time **speech-to-text**, **text-to-speech**, and **intelligent multi-turn conversations**.  
-The assistant can set reminders, take notes, create calendar events, and respond naturally to user commands.
-
----
-
 ## 🚀 Features
 
 - 🎙 **Voice Input** using SpeechRecognition + PyAudio  
